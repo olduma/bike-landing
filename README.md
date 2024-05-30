@@ -1,5 +1,7 @@
 # Bike Landing Page
 
+[Bike Landing Page Demo](https://olduma.github.io/bike-landing/)
+
 ## Description
 
 This project is a sleek and modern landing page designed for a bike shop, showcasing various models of bikes along with their features and specifications. The website provides an engaging user experience with a responsive design and interactive elements.
